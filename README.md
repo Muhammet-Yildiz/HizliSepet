@@ -205,6 +205,7 @@ This project was created using the following technologies.
 - Linkedin: [@muhammet-yildiz](https://www.linkedin.com/in/muhammet-yildiz1/)
 - Email: [yildiz.m.muhammet@gmail.com](mailto:yildiz.m.muhammet@gmail.com)
 
+- If you like the project, do not forget to give star ⭐⭐⭐ 
 
 ## License
 
